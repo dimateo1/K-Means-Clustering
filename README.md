@@ -10,6 +10,6 @@ Download modul di bawah ini sebelum running program:
 Jalankan Clustering dengan K-Means.py
 
 Nama Kelompok :
-Andrian Rizky Azhari
-Bimasona Simanjorang
-Dimateo
+- Andrian Rizky Azhari
+- Bimasona Simanjorang
+- Dimateo
